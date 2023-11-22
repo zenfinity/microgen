@@ -14,8 +14,11 @@ blocks:
       position: bg-center
     headline: Headline
     subhead: Subhead
+    body: ''
     _template: feature
 background:
+  fillStyles: bg-gray-dark opacity-100
+  wrapFillStyles: ' opacity-100'
   style: bg-cover
   position: bg-center
 ---
