@@ -15,7 +15,7 @@ colors:
 typo:
   - label: Headline
     typography: >-
-      {"family":"Arial","size":"24","lineHeight":"36","letterSpacing":"0","margin":"36","smSize":"24","smLineHeight":"36","smLetterSpacing":"0","smMargin":"36"}
+      {"family":"Helvetica","size":"24","lineHeight":"36","letterSpacing":"0","margin":"36","smSize":"24","smLineHeight":"36","smLetterSpacing":"0","smMargin":"36"}
   - label: Headline Small
     typography: >-
       {"family":"Arial","size":"48","lineHeight":"48","letterSpacing":"0","margin":"48","smSize":"48","smLineHeight":"48","smLetterSpacing":"0","smMargin":"48"}
