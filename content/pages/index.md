@@ -347,72 +347,14 @@ blocks:
       run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
       and open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
-backgroundColor: white
+background:
+  fillStyles: bg-black opacity-100
+  wrapFillStyles: ' opacity-100'
+  src: ''
+  style: bg-repeat
+  position: bg-center
 meta:
   title: Microgen
   description: ''
-background:
-  fillStyles: bg-black opacity-100
-  src: ''
-  style: bg-cover
-  position: bg-left
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
