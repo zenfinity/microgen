@@ -12,7 +12,8 @@ blocks:
       textStyles: 'text-white mg-copy '
     background:
       fillStyles: ' opacity-100'
-      src: /uploads/hero-background.mp4
+      wrapFillStyles: ' opacity-100'
+      src: ''
       style: bg-cover
       position: bg-center
     label: ''
