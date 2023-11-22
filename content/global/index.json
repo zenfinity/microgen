@@ -1,12 +1,13 @@
 {
-  "siteUrl": "microgen.site",
-  "gtmId": "",
+  "siteUrl": "blueplusred.com",
+  "favicon": "/uploads/bluepredvesica_v5.4_icon.png",
+  "analytics": "none",
   "fathomSiteId": "",
-  "theme": "content/themes/microgen.md",
+  "theme": "content/themes/blueplusred.md",
   "logo": {
-    "logoType": "Microgen",
-    "logoTypeStyle": "undefined undefined ",
-    "image": "/uploads/microgen-logo.svg",
+    "logoType": "BluePlusRed",
+    "logoTypeStyle": "undefined mg-nav mb-3",
+    "image": "/uploads/bluepredvesica_v5.4_horiz.png",
     "imageWidth": "224"
   },
   "nav": {
@@ -23,7 +24,5 @@
       }
     ]
   },
-  "favicon": "/uploads/favicon.png",
-  "footerNav": "true",
-  "analytics": "none"
+  "footerNav": "true"
 }
