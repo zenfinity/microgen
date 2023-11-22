@@ -7,7 +7,7 @@ blocks:
       featureContent: 'w-2/3 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: 'text-white mg-headline-small '
-      headlineStyles: 'text-white mg-headline-large '
+      headlineStyles: 'text-white mg-headline '
       subheadStyles: 'text-white mg-copy-large '
       textStyles: 'text-white mg-copy '
     background:
