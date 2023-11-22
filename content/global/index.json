@@ -16,5 +16,5 @@
     "navAlignment": "text-right",
     "navTypeStyle": "text-white mg-nav mb-7"
   },
-  "footerNav": "true"
+  "footerNav": "false"
 }
