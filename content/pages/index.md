@@ -1,6 +1,24 @@
 ---
 blocks:
   - style:
+      alignment: 'flex-row items-center '
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-1/2 min-h-0 text-left
+      buttonsLayout: 'flex-wrap gap-0 '
+      labelStyles: text-gray-light mg-copy-small undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    background:
+      style: bg-cover
+      position: bg-center
+    label: Cool Vizzes
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: feature
+  - style:
       alignment: 'flex-col-reverse items-center '
       padding: 'pt-64 pb-64 pr-10 pl-10 sm:pt-28 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
