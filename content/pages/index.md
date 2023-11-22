@@ -52,10 +52,11 @@ blocks:
       ![](/uploads/bustout-protocol-partners.svg)
 
 
-      Microgen was built by **[Bust Out](https://bustout.com "Bust Out")** for
-      **[Protocol Labs](https://protocol.ai "Protocol Labs")** and designed to
-      run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
-      and open source **[Tina CMS](https://tina.io "Tina CMS")**.
+      Site created using Microgen which was built by **[Bust
+      Out](https://bustout.com "Bust Out")** for **[Protocol
+      Labs](https://protocol.ai "Protocol Labs")** and designed to run on
+      **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent and
+      open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
 background:
   fillStyles: bg-gray-dark opacity-100
