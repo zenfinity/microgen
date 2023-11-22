@@ -5,7 +5,7 @@ blocks:
       padding: 'pt-64 pb-64 pr-10 pl-10 sm:pt-28 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: 'w-2/3 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
-      buttonsLayout: 'flex-wrap  '
+      buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: 'text-white mg-headline-small '
       headlineStyles: 'text-white mg-headline-large '
       subheadStyles: 'text-white mg-copy-large '
@@ -17,17 +17,15 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: The Web3 Visual Site Builder
+    headline: See Newly
     subhead: ''
     body: >
-      Microgen is an intuitive, open source visual site builder made for Web3.
-      Free forever and built for the decentralized internet. Extend the library
-      of customizable components however you like and host your website for free
-      on IPFS or any other static host.
+      Boutique consulting helping you discover insights in your data, and
+      efficiency in your processes.
     buttons:
-      - label: Get Started
-        link: 'https://github.com/MicrogenSite/microgen'
-        icon: arrow-right-solid
+      - label: Contact
+        link: 'https://www.linkedin.com/in/imacmoore/'
+        icon: linkedin
         buttonStyle: primary
         fathomId: ''
     _template: feature
