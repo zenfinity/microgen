@@ -2,7 +2,7 @@
 name: blueplusred
 desktopWidth: '1000'
 colors:
-  primary: '#9013FE'
+  primary: '#982298'
   accent1: '#28B3BF'
   accent2: '#9B9B9B'
   accent3: '#E039AD'
@@ -35,5 +35,4 @@ buttons:
     primaryRounded: rounded
 linkColor: gray
 ---
-
 
