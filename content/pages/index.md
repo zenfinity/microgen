@@ -76,7 +76,7 @@ blocks:
       and open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
 background:
-  fillStyles: bg-black opacity-100
+  fillStyles: bg-gray-dark opacity-100
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-repeat
